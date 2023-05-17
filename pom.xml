@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.aop</groupId>
-    <artifactId>_4_spring_aop</artifactId>
+    <groupId>com.trx</groupId>
+    <artifactId>_51_spring_trx</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <build>
         <plugins>
@@ -18,9 +18,9 @@
             </plugin>
         </plugins>
     </build>
-    <name>_4_spring_aop</name>
+    <name>_51_spring_trx</name>
 
-    <description>Aspect Oriented Programming with spring framework</description>
+    <description>Talking about spring transaction</description>
 
     <properties>
         <java.version>11</java.version>
